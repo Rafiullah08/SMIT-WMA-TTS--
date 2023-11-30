@@ -1,0 +1,47 @@
+.h1{
+    color:white;
+    background-color: blue;
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: italic;
+
+}
+.para1{
+    font-size: larger;
+    line-height: 12pt;
+}
+.para2{
+    font-size: 20pt;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-decoration: underline; 
+    
+}
+.h2{
+    color: blue;
+    word-spacing: 2pt;
+    font-size: 30pt;
+    text-align: center;
+    text-shadow: 10px 1px 0px red ;   
+
+
+
+}
+.heading{
+    letter-spacing: 2pt;
+}
+.w1{
+color: blue;
+font-size: 70pt;
+}
+.w2{
+    color: rgb(0, 0, 150);
+    font-size: 70pt;
+}
+.w3{
+    color: blue;
+    font-size: 70pt;
+}

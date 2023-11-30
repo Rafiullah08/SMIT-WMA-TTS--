@@ -1,0 +1,272 @@
+body{
+    display: flex;
+    align-items: center;
+    background-color: azure;
+    justify-content: center;
+
+}
+.h1{
+    font-family: sans-serif;
+    font-size: larger;
+}
+.p1{
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: larger;
+}
+.img{
+    margin-left: 30pc;
+    margin-right: 30pc;
+    background-color:whitesmoke;
+}
+.img1{
+    margin-left: 3.2pc;
+    
+}
+.heading{
+    font-size: 30px;
+    text-size-adjust: 35px;
+    font-family: sans-serif;
+    align-content: center;
+    margin-left: 90pt;
+    padding-bottom: 2pc;
+}
+.portal{
+    margin-left: 8pc;
+    width: 7.6pc;
+    border-radius: 3pc;
+    font-family: sans-serif;
+    font-size: larger;
+    padding: 1px;
+    
+}
+.input-box{
+    text-align-last: center;
+}
+.service{
+    font-family: sans-serif;
+    font-size: small;
+    text-align: center;
+    margin-top: 5px;
+    color: #000;
+    margin-bottom: 1pc;
+}
+.application{
+    font-size: 15px;
+    color:darksalmon;
+    margin-left: 30pc;
+    font-weight: 100;
+    padding-top: 2pc;
+margin-bottom: 1pc;
+}
+.Ed{
+    font-family: sans-serif;
+    color: blueviolet;
+    font-size: 15px;
+    margin-left: 1pc;
+    margin-bottom: 1pc;
+    
+}
+.Reg{
+    font-family: sans-serif;
+    color: blueviolet;
+    margin-left: 1pc;
+    font-size: 15px;
+    margin-bottom: 2pc;
+}
+.form container{
+    background-color: blue;
+}
+.city{
+    font-family: sans-serif;
+    margin-left: 4pc;
+    margin: top 2pc;
+}
+.scity{
+    font-size: larger;
+    font-family: sans-serif;
+    margin-left: 4pc;
+    margin-bottom: 2pc;
+    color: blue;
+}
+.box1{
+    width: 31pc;
+    height: 2pc;
+    font-size: larger;
+    margin-top: 1pc;
+    margin-left: 4pc;
+    
+}
+.scourse{
+    font-size: larger;
+    color: blue;
+    font-family: sans-serif;
+    margin-left: 27pc;
+    margin-bottom: 2pc;
+
+}
+.box2{
+    width: 31pc;
+    height: 2pc;
+    font-size: larger;
+    margin-left: 1pc;
+
+    
+}
+.fname{
+    font-size: larger;
+    font-family: sans-serif;
+    margin-left: 4pc;
+    margin-top: 1pc;
+    color: blue;
+}
+.box3{
+    width: 31pc;
+    height: 2pc;
+    font-size: larger;
+    margin-left: 4pc;
+}
+.ftname{
+    margin-left: 27.4pc;
+    color: blue;
+}
+.box4{
+    width: 31pc;
+    height: 2pc;
+    font-size: larger;
+    margin-left: 1pc;
+    margin-top: 10pt;
+}
+.mail{
+    font-size: larger;
+    font-family: sans-serif;
+    margin-left: 4pc;
+    margin-top: 1pc;
+    color: blue;
+}
+.box5{
+    width: 31pc;
+    height: 2pc;
+    font-size: larger;
+    margin-left: 4pc;
+}
+.pnumber{
+    margin-left: 29.4pc;
+    color: blue;
+}
+.box6{
+    width: 31pc;
+    height: 2pc;
+    font-size: larger;
+    margin-left: 1pc;
+    margin-top: 10pt;
+
+}
+.CNIC{
+    font-size: larger;
+    font-family: sans-serif;
+    margin-left: 4pc;
+    margin-top: 1pc;
+    color: blue;
+}
+.box7{
+    width: 31pc;
+    height: 2pc;
+    font-size: larger;
+    margin-top: 10pt;
+    margin-left: 4pc;
+}
+.FCNIC{
+    margin-left: 29.3pc;
+    color: blue;
+}
+.box8{
+    width: 31pc;
+    height: 2pc;
+    font-size: larger;
+    margin-left: 1pc;
+}
+.sdate{
+    font-size: larger;
+    font-family: sans-serif;
+    margin-left: 4pc;
+    margin-top: 1pc;
+    color: blue;
+}
+.box9{
+    width: 31pc;
+    height: 2pc;
+    font-size: larger;
+    margin-top: 10pt;
+    margin-left: 4pc;
+}
+.sgender{
+    margin-left: 26.1pc;
+    color: blue;
+}
+.box10{
+    width: 31pc;
+    height: 2.5pc;
+    font-size: larger;
+    margin-top: 10pt;
+    margin-left: 1pc;
+}
+.address{
+    font-size: larger;
+    font-family: sans-serif;
+    margin-left: 4pc;
+    margin-top: 1pc;
+    color: blue;
+}
+.box11{
+    width: 63.2pc;
+    height: 2pc;
+    font-size: larger;
+    margin-top: 10pt;
+    margin-left: 4pc;
+}
+.qualification{
+    font-size: larger;
+    font-family: sans-serif;
+    margin-left: 4pc;
+    margin-top: 1pc;
+    color: blue;
+}
+.box12{
+    width: 63.6pc;
+    height: 2.5pc;
+    font-size: larger;
+    margin-top: 10pt;
+    margin-left: 4pc;
+}
+.laptop{
+    font-size: larger;
+    font-family: sans-serif;
+    margin-left: 4pc;
+    margin-top: 1pc;
+    color: blue;
+}
+.box13{
+    width: 63.6pc;
+    height: 2.5pc;
+    font-size: larger;
+    margin-top: 10pt;
+    margin-left: 4pc;  
+}
+
+.picture{
+    margin-left: 4pc;
+    font-family: sans-serif;
+    font-size: larger;
+}
+.file{
+    
+}
+.button{
+    width: 61pc;
+    height: 2pc;
+    font-size: larger;
+    background-color: blue;
+    color: white;
+    margin-left: 28pt;
+}
